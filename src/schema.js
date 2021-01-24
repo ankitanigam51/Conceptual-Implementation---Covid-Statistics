@@ -1,4 +1,3 @@
-  
 const { Schema, mongo } = require('mongoose');
 
 const tallySchema = new Schema({
